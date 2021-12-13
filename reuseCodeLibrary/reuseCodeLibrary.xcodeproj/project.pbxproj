@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		172D496A276776F6009A1929 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172D4969276776F6009A1929 /* AppDelegate.swift */; };
-		172D496C276776F6009A1929 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172D496B276776F6009A1929 /* SceneDelegate.swift */; };
 		172D496E276776F6009A1929 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172D496D276776F6009A1929 /* ViewController.swift */; };
 		172D4971276776F6009A1929 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172D496F276776F6009A1929 /* Main.storyboard */; };
 		172D4974276776F6009A1929 /* reuseCodeLibrary.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 172D4972276776F6009A1929 /* reuseCodeLibrary.xcdatamodeld */; };
@@ -19,7 +18,6 @@
 /* Begin PBXFileReference section */
 		172D4966276776F6009A1929 /* reuseCodeLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = reuseCodeLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		172D4969276776F6009A1929 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		172D496B276776F6009A1929 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		172D496D276776F6009A1929 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		172D4970276776F6009A1929 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		172D4973276776F6009A1929 /* reuseCodeLibrary.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = reuseCodeLibrary.xcdatamodel; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				172D4969276776F6009A1929 /* AppDelegate.swift */,
-				172D496B276776F6009A1929 /* SceneDelegate.swift */,
 				172D496D276776F6009A1929 /* ViewController.swift */,
 				172D496F276776F6009A1929 /* Main.storyboard */,
 				172D4975276776FC009A1929 /* Assets.xcassets */,
@@ -144,7 +141,6 @@
 				172D496E276776F6009A1929 /* ViewController.swift in Sources */,
 				172D4974276776F6009A1929 /* reuseCodeLibrary.xcdatamodeld in Sources */,
 				172D496A276776F6009A1929 /* AppDelegate.swift in Sources */,
-				172D496C276776F6009A1929 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
